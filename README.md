@@ -25,3 +25,5 @@ This Java application integrates two creational design patterns:
 1. Compile source files:
    ```bash
    javac -d bin src/main/java/com/logistics/*.java src/main/java/com/logistics/*/*.java
+<img width="754" height="296" alt="Снимок экрана 2026-09-20 185643" src="https://github.com/user-attachments/assets/a2120b3d-57e0-40ac-b479-933368c9920d" />
+<img width="764" height="235" alt="Снимок экрана 2026-09-20 185748" src="https://github.com/user-attachments/assets/e4d81749-80b0-47ef-a83d-7a73f0b495ce" />
