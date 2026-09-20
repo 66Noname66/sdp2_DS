@@ -1,0 +1,8 @@
+package com.logistics.model;
+
+public class MacOSCheckbox implements Checkbox {
+    @Override
+    public void paint() {
+        System.out.println("Rendering macOS Checkbox");
+    }
+}
